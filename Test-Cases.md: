@@ -1,1 +1,11 @@
+TC08 – Checkout Overview Verification
 
+Expected Result: Product details and total amount should be displayed.
+Actual Result: Product details and total amount displayed correctly.
+Status: Pass
+
+TC09 – Complete Order
+
+Expected Result: Order confirmation message should appear.
+Actual Result: Update after testing.
+Status: Not Executed
