@@ -3,9 +3,8 @@
 ## TC01 – Login with Valid Details
 - Steps: Enter valid username and password, then click Login.
 - Expected Result: User should log in successfully.
-- Actual Result: To be updated after testing.
-- Status: Not Executed
-
+- Actual Result: Products page opened successfully.
+- Status: Pass
 ## TC02 – Login with Invalid Details
 - Steps: Enter invalid username or password and click Login.
 - Expected Result: An error message should be displayed.
